@@ -1,3 +1,7 @@
-# koa2 weibo
+# 集团 node 后端模板
 
-author 双越老师@慕课网
+安装
+
+```shell
+npm install guoshang -g
+```
